@@ -1,0 +1,15 @@
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\AirlineSendAgent.exe
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\AirlineSendAgent.deps.json
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\AirlineSendAgent.runtimeconfig.json
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\AirlineSendAgent.dll
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\ref\AirlineSendAgent.dll
+C:\Learning\udemy\webhooks\AirlineSendAgent\bin\Debug\net6.0\AirlineSendAgent.pdb
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.csproj.AssemblyReference.cache
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.AssemblyInfoInputs.cache
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.AssemblyInfo.cs
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.csproj.CoreCompileInputs.cache
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.dll
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\ref\AirlineSendAgent.dll
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.pdb
+C:\Learning\udemy\webhooks\AirlineSendAgent\obj\Debug\net6.0\AirlineSendAgent.genruntimeconfig.cache
